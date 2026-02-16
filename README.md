@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Yash Kumawat 👋
 
-<!--
-**yash-kumawat-0/yash-kumawat-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 React Developer | JavaScript  
+📊 Python Data Analysis (Pandas, NumPy, Matplotlib)  
+🚀 Building practical projects and improving daily  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a frontend developer with strong fundamentals in JavaScript and React. I build responsive, clean web applications focused on performance and usability.
+
+Alongside web development, I work with Python for data cleaning and exploratory data analysis using tools like Pandas and NumPy.
+
+Currently expanding my skills in Machine Learning and backend development.
+
+---
+
+## Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Data & Python
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Tools
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## Featured Projects
+- Task Manager Web App
+- Spotify UI Replica
+- Simon Game (JavaScript)
+- StudyFlow (MERN - Team Project)
+
+---
+
+📫 Reach me: kumawatyash378@gmail.com
