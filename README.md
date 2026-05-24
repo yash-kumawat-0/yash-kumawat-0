@@ -1,49 +1,105 @@
 # Hi, I'm Yash Kumawat 👋
 
-💻 React Developer | JavaScript  
-📊 Python Data Analysis (Pandas, NumPy, Matplotlib)  
-🚀 Building practical projects and improving daily  
+### Full Stack & AI Developer
+
+💻 Building modern web applications with React, Node.js and MongoDB
+📊 Exploring AI, Machine Learning and Data Analysis using Python
+🚀 Focused on real-world projects, clean UI and scalable systems
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I am a frontend developer with strong fundamentals in JavaScript and React. I build responsive, clean web applications focused on performance and usability.
+I'm a diploma computer engineering student passionate about full stack development and intelligent systems.
 
-Alongside web development, I work with Python for data cleaning and exploratory data analysis using tools like Pandas and NumPy.
+I enjoy building responsive web applications, experimenting with AI-based solutions, and solving practical problems through software.
 
-Currently expanding my skills in Machine Learning and backend development.
+Currently working on:
+
+* MERN Stack Projects
+* AI-powered applications
+* Backend architecture
+* Machine Learning systems
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
 
-### Data & Python
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-### Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Python & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## Featured Projects
-- Task Manager Web App
-- Spotify UI Replica
-- Simon Game (JavaScript)
-- StudyFlow (MERN - Team Project)
+## 🚀 Featured Projects
+
+### 📚 StudyFlow
+
+AI-powered productivity platform for students with task management and collaboration features.
+
+### 🏛 Civic Report System
+
+Full-stack civic issue reporting platform developed during hackathon.
+
+### 🧠 Resume Analyzer AI *(Upcoming)*
+
+AI-based resume analysis platform with smart suggestions and scoring.
+
+### 💪 AI Fitness Trainer *(Upcoming)*
+
+Personalized AI-powered workout and fitness recommendation system.
 
 ---
 
-📫 Reach me: kumawatyash378@gmail.com
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-kumawat-0&show_icons=true&theme=tokyonight" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-kumawat-0&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* TypeScript
+* Advanced Backend Development
+* Machine Learning
+* System Design Basics
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/yash-kumawat-0
+* Email: [kumawatyash378@gmail.com](mailto:kumawatyash378@gmail.com)
+
+---
+
+⭐ Always building, learning and experimenting with new technologies.
